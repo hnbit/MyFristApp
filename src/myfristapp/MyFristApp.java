@@ -6,7 +6,8 @@ public class MyFristApp {
         
         System.out.println("Metat Muangjiang 55021373");
         System.out.println("Hello World");
-        
+        System.out.println("Infornation Technology");
+        System.out.println("University Phayao");
     }
     
 }
